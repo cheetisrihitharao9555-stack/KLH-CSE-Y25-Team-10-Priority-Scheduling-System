@@ -1,23 +1,25 @@
-Priority Scheduling System,
-
-
-Team Members                   Roll Number
+PRIORITY SCHEDULING SYSTEM
 
 
 
 
-
-KODEBOINA PRIYADARSHINI        2520030067
-
+Team Members                                              Roll Number
 
 
 
 
-GANDLA SAHASRA                 2520030108
+KODEBOINA PRIYADARSHINI                                   2520030067
 
 
 
-CHEETI SRIHITHA                2520030400
+
+GANDLA SAHASRA                                            2520030108
+
+
+
+
+CHEETI SRIHITHA                                           2520030400
+
 
 
 
